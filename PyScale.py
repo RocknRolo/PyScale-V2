@@ -1,4 +1,5 @@
-# PyFret v2. A simple Python script that calculates musical scales and draws them on a text-based fretboard.
+# PyScale-V2. A Python script that calculates musical scales and displays them on a guitar fretboard that is 
+# printed to the shell.
 # Author: Roel Kemp (github.com/RocknRolo)
 
 # "sys" is imported so the user can supply command line arguments.
