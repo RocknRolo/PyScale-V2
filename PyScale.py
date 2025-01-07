@@ -194,7 +194,7 @@ for fret0str in Tuning:
     print(string_str)
 
 fret_numbers = "                   3           5           7           9               " + \
-"1 2         1 5     1 7     1 9         2 2     2 4"
+"1 2         1 5     1 7     1 9     2 1         2 4"
 
 print(fret_numbers)
 
